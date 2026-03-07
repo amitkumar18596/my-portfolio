@@ -59,7 +59,7 @@ Start the development server:
 npm run dev
 ```
 
-The app will be available at [http://localhost:3001](http://localhost:3001).
+The app will be available at [http://localhost:3001/my-portfolio](http://localhost:3001/my-portfolio).
 
 ## 📄 Sections
 
