@@ -69,6 +69,3 @@ The app will be available at [http://localhost:3001](http://localhost:3001).
 - **Projects**: Showcase of recent work with tech stack details.
 - **Contact**: Professional contact form and social links.
 
-## 📝 License
-
-This project is open-source and available under the [MIT License](LICENSE).
