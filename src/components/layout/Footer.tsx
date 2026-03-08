@@ -28,7 +28,7 @@ export function Footer() {
               <a href="#" className="hover:text-primary transition-colors">
                 <Twitter size={20} />
               </a>
-              <a href="#" className="hover:text-primary transition-colors">
+              <a href="mailto:maharana.amit96@gmail.com" className="hover:text-primary transition-colors">
                 <Mail size={20} />
               </a>
             </div>

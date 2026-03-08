@@ -49,7 +49,7 @@ export function Contact() {
               </div>
               <div>
                 <h4 className="font-bold text-lg">Email</h4>
-                <p className="text-slate-500 dark:text-slate-400">amit@example.dev</p>
+                <p className="text-slate-500 dark:text-slate-400">maharana.amit96@gmail.com</p>
               </div>
             </div>
 
@@ -59,7 +59,7 @@ export function Contact() {
               </div>
               <div>
                 <h4 className="font-bold text-lg">Phone</h4>
-                <p className="text-slate-500 dark:text-slate-400">+1 (555) 123-4567</p>
+                <p className="text-slate-500 dark:text-slate-400">+91-8908304919</p>
               </div>
             </div>
 
@@ -69,7 +69,7 @@ export function Contact() {
               </div>
               <div>
                 <h4 className="font-bold text-lg">Location</h4>
-                <p className="text-slate-500 dark:text-slate-400">San Francisco, CA</p>
+                <p className="text-slate-500 dark:text-slate-400">Odisha, IN</p>
               </div>
             </div>
           </motion.div>
