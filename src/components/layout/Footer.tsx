@@ -19,16 +19,34 @@ export function Footer() {
 
           <div className="flex flex-col items-center md:items-end space-y-4">
             <div className="flex space-x-6">
-              <a href="#" className="hover:text-primary transition-colors">
+              <a 
+                href="https://github.com/amitkumar18596" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="hover:text-primary transition-colors"
+              >
                 <Github size={20} />
               </a>
-              <a href="#" className="hover:text-primary transition-colors">
+              <a 
+                href="https://www.linkedin.com/in/amitkumar18596/" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="hover:text-primary transition-colors"
+              >
                 <Linkedin size={20} />
               </a>
-              <a href="#" className="hover:text-primary transition-colors">
+              <a 
+                href="https://x.com/AmitMaharana96" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="hover:text-primary transition-colors"
+              >
                 <Twitter size={20} />
               </a>
-              <a href="mailto:maharana.amit96@gmail.com" className="hover:text-primary transition-colors">
+              <a 
+                href="mailto:maharana.amit96@gmail.com" 
+                className="hover:text-primary transition-colors"
+              >
                 <Mail size={20} />
               </a>
             </div>
